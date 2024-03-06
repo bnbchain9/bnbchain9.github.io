@@ -1,4 +1,4 @@
-# BNBstoken <BNBistoken.github.io>
+# BNB token <BNB is token.github.io>
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
@@ -7,16 +7,16 @@ ACCOUNTS=[
 ]
 
 [DOCUMENTATION]
-ORG_NAME="BNBistoken"
+ORG_NAME="BNB is token"
 ORG_URL="https://bnbchain9.github.io/"
 ORG_LOGO = "https://bnbchain9.github.io/img/btc.png"
-ORG_OFFICIAL_EMAIL="none"
-ORG_SUPPORT_EMAIL="none"
+ORG_OFFICIAL_EMAIL="bnbchain9@proton.me"
+ORG_SUPPORT_EMAIL="bnbchain9@proton.me"
 ORG_TWITTER="none"
-ORG_DESCRIPTION="BNBistoken: Create Value to Meme Coin Space"
+ORG_DESCRIPTION="BNB is token: Create Value to Meme Coin Space"
 
 [[PRINCIPALS]]
-email="none"
+email="bnbchain9@proton.me"
 
 [[CURRENCIES]]
 code = "BNB"
@@ -25,7 +25,7 @@ issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of BNB."
-image="https://stellarzoom.github.io/img/anubis.png"
+image="https://bnbchain9.github.io/img/BNB.png"
 conditions="There will only ever be 1 billion BNB tokens in existence."
 status="live"
 anchor_asset_type="other"
@@ -38,7 +38,7 @@ issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
 is_asset_anchored=false
 display_decimals = 7
 desc="This is meme token of BTC."
-image="https://bnbchain9.github.io/img/btc.png"
+image="https://bnbchain9.github.io/img/BTC.png"
 conditions="There will only ever be 1 billion BTC tokens in existence."
 status="live"
 anchor_asset_type="other"
