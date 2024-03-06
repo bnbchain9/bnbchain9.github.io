@@ -43,3 +43,18 @@ conditions="There will only ever be 1 billion BTC tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
+
+[[CURRENCIES]]
+code = "AI"
+name = "AI"
+issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of AI."
+image="https://bnbchain9.github.io/img/AI.png"
+conditions="There will only ever be 1 billion AI tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+
