@@ -89,10 +89,61 @@ name = "1000SATS"
 issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of XRP."
-image="https://bnbchain9.github.io/img/XRP.png"
+desc="This is meme token of 1000SATS."
+image="https://bnbchain9.github.io/img/1000SATS.png"
 conditions="There will only ever be 1 billion 1000SATS tokens in existence."
 status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
+[[CURRENCIES]]
+code = "1INCH"
+name = "1INCH"
+issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of 1INCH."
+image="1INCH"
+conditions="There will only ever be 1 billion 1INCH tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code = "AAVE"
+name = "AAVE"
+issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of AAVE."
+image="https://bnbchain9.github.io/img/AAVE.png"
+conditions="There will only ever be 1 billion AAVE tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code = "ACA"
+name = "ACA"
+issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ACA."
+image="https://bnbchain9.github.io/img/ACA.png"
+conditions="There will only ever be 1 billion ACA tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code = "ACE"
+name = "ACE"
+issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ACE."
+image="https://bnbchain9.github.io/img/ACE.png"
+conditions="There will only ever be 1 billion ACE tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
