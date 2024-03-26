@@ -83,4 +83,16 @@ status="live"
 anchor_asset_type="other"
 fixed_number=1000000000
 
+[[CURRENCIES]]
+code = "1000SATS"
+name = "1000SATS"
+issuer = "GAIRK7D3EZ3KNOFUFMOEMY5SAPWZ4AV3WDOHCHMO4ACOQQRZLBFFXGH7"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of XRP."
+image="https://bnbchain9.github.io/img/XRP.png"
+conditions="There will only ever be 1 billion 1000SATS tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
 
